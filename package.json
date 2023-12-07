@@ -313,6 +313,10 @@
                 "path": "./snippets/javascript/react-native-ts.json"
             },
             {
+                "language": "typescriptreact",
+                "path": "./snippets/javascript/qwik.json"
+            },
+            {
                 "language": [
                     "javascriptreact",
                     "typescriptreact"
