@@ -1,0 +1,6 @@
+{
+    "components$": {
+        "prefix": "com",
+        "body": "import { component$ } from \"@builder.io/qwik\";\n\nexport default component$(() => {\n\treturn (\n\t\t<>\n\t\t\t$0\n\t\t</>\n\t)\n})"
+    }
+}
