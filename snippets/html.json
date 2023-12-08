@@ -835,5 +835,23 @@
             "</ol>"
         ],
         "description": "HTML - Defines an ordered list"
+    },
+    "section.": {
+        "prefix": "section.",
+        "body": [
+            "<section class=\"$1\">",
+            "\t$2",
+            "</section>"
+        ],
+        "description": "HTML - Defines a section with style"
+    },
+    "section.#": {
+        "prefix": "section.#",
+        "body": [
+            "<section id=\"$1\" class=\"$2\">",
+            "\t$3",
+            "</section>"
+        ],
+        "description": "HTML - Defines a section with style"
     }
 }
