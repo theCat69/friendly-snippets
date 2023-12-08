@@ -367,12 +367,12 @@
   },
   "img": {
     "prefix": "img",
-    "body": "<img src=\"$1\" alt=\"$2\">$3",
+    "body": "<img src=\"$1\" alt=\"$2\" width={$3} height={$4} />$5",
     "description": "HTML - Defines an image"
   },
   "input": {
     "prefix": "input",
-    "body": "<input type=\"$1\" name=\"$2\" value=\"$3\">$4",
+    "body": "<input type=\"$1\" name=\"$2\" value=\"$3\" />$4",
     "description": "HTML - Defines an input field"
   },
   "ins": {
