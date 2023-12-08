@@ -624,6 +624,11 @@
     "body": "<span>$1</span>$2",
     "description": "HTML - Defines a section in a document"
   },
+  "span.": {
+    "prefix": "span.",
+    "body": "<span class=\"$1\">$2</span>$3",
+    "description": "HTML - Defines a section in a document with style"
+  },
   "strong": {
     "prefix": "strong",
     "body": "<strong>$1</strong>$2",
